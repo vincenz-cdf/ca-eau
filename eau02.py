@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 
 def error_arguments_length(arguments):
